@@ -1,5 +1,8 @@
 _repo: The-Place-of-Animals-in-Human-Thought_65720
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65720-h/images/cover.jpg
 creator:
   author:
     agent_name: Martinengo-Cesaresco, Evelyn Lilian Hazeldine Carrington, contessa
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4440'
     url: http://www.gutenberg.org/2009/agents/4440
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65720#The-Place-of-Animals-in-Human-Thought
 gutenberg_issued: '2021-06-29'
 gutenberg_type: Text
 identifiers:
